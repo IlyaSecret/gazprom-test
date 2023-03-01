@@ -1,0 +1,46 @@
+
+.barArea{
+  height: 561px;
+  width: 778px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.strong{
+  color: #002033;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+
+.infoCard{
+  height: 189px;
+  width: 191px;
+}
+
+.title{
+  margin-bottom: 5%;
+}
+
+.amount{
+  float: right;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.valueArea{
+  margin-bottom: 4%;
+  margin-top: 4%;
+  color: #002033;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.columnValue{
+  color: #002033;
+  font-weight: 600;
+  line-height: 21px;
+  font-size: 14px;
+}
